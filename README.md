@@ -2,6 +2,8 @@
 
 ## ROS 2 package for LDRobot lidar - Based on Nav2 Lifecycle nodes
 
+## contributed
+
 [Get the Lidar](#get-the-lidar) • [YouTube Videos](#the-node-in-action) • [Install](#install-the-node) • [Start the Node](#start-the-node) • [Parameters](#parameters) • [RViz2](#display-scan-on-rviz2) • [Robot Integration](#integrate-the-node-in-your-robot) • [Benchmarking](#benchmarking)
 
 This package is designed to work with the DToF 2D Lidar sensors [LD19](https://www.ldrobot.com/product/en/112) made by [LDRobot](https://www.ldrobot.com/en).
